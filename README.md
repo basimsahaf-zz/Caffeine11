@@ -1,7 +1,10 @@
 # Caffeine
 An app that makes roads safe for you and for everyone!
 
-### [Live video demo](https://www.youtube.com/watch?v=SrqXLN80N_A)
+### Live video demo
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SrqXLN80N_A
+" target="_blank"><img src="https://cloud.githubusercontent.com/assets/23586027/23636757/546595c0-02a5-11e7-8d96-e05fe429402d.png" 
+alt="Live Demo" width="240" height="180" border="10" /></a>
 
 ## Motivation behind the hack:
 
