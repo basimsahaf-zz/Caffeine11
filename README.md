@@ -21,6 +21,7 @@ alt="Live Demo" width="240" height="180" border="10" /></a>
 •Reminds drivers to not use their phones while driving. 
 
 •We do this by causing a sound and a vibration to trigger whenever needed.
+
 ![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](https://cloud.githubusercontent.com/assets/23586027/23636757/546595c0-02a5-11e7-8d96-e05fe429402d.png) 
 
 
